@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="left">Oi 👋 Como vai?</h1>
 
-<!--
-**V1n1c1u5P4iva/V1n1c1u5P4iva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Olá, meu nome é Vinicius, sou estudante de Ciência da Computação e tenho um forte interesse por tecnologia. Possuo conhecimento em Java, Python e C. Estou sempre buscando aprender mais e me aprimorar nas áreas de programação, sistemas e inovação tecnológica.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">💻 Comecei a estudar em 2023 e, desde então, tenho me dedicado a aprender cada vez mais sobre tecnologia.<br><br>📚 Atualmente, estou aprendendo frameworks como PyMongo e SQLAlchemy para melhorar minhas habilidades em desenvolvimento.<br><br>🎯 Meu objetivo é tornar-me um desenvolvedor back-end, contribuindo para a criação de sistemas robustos e eficientes.</p>
+
+###
+
+<h2 align="left">Eu programo com</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo Java"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="logo C"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="logo Python"  />
+</div>
+
+###
+
+<h2 align="left">Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="logo SQLAlchemy"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pymongo/pymongo-original.svg" height="40" alt="logo PyMongo"  />
+</div>
+

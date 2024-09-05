@@ -15,14 +15,18 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
 </div>
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left">Frameworks e Bibliotecas</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy logo" />
   <span>SQLAlchemy</span>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <span>PyMongo</span>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <span>Pandas</span>
 </div>
+
 
 <h2 align="left">Estatísticas do GitHub</h2>
 <div align="center">

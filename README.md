@@ -1,6 +1,8 @@
 <h1 align="left">Olá 👋 Como vai?</h1>
 <p align="left">Olá, meu nome é Vinicius. Sou estudante de Ciência da Computação com um forte interesse por tecnologia e desenvolvimento de software. Tenho experiência em Java, Python e C, e estou sempre em busca de aprender e aprimorar minhas habilidades.</p>
 
+<p align=“left”> <a href=“https://www.linkedin.com/in/seu-perfil-linkedin” target=“_blank”> <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg” height=“40” alt=“LinkedIn logo” /> </a> </p>
+
 <h2 align="left">Sobre Mim</h2>
 <p align="left">
   💻 <strong>Estudo em Ciência da Computação</strong>: Comecei em 2023 e tenho me dedicado a explorar novas tecnologias e aprimorar meus conhecimentos em programação e sistemas.<br><br>

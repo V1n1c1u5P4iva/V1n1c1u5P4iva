@@ -13,7 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="SQL logo" />
 </div>
+
 
 <h2 align="left">Frameworks e Bibliotecas</h2>
 <div align="left">

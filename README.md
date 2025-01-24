@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋 Como vai?</h1>
-<p align="left">Olá, meu nome é Vinicius. Sou estudante de Ciência da Computação com um forte interesse por tecnologia e desenvolvimento de software. Tenho experiência em Java, Python e C, e estou sempre em busca de aprender e aprimorar minhas habilidades.</p>
+<p align="left">Olá, meu nome é Vinicius. Sou estudante de Ciência da Computação com um forte interesse por tecnologia e desenvolvimento de software. Tenho experiência em Java, Python,Ruby e C, e estou sempre em busca de aprender e aprimorar minhas habilidades.</p>
 
 <h2 align="left">Sobre Mim</h2>
 <p align="left">
@@ -22,15 +22,15 @@
 <div align="left" style="display: flex; align-items: center; gap: 16px;">
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy logo" />
-    <span>SQLAlchemy</span>
+    <span>- SQLAlchemy</span>
   </div>
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-    <span>PyMongo</span>
+    <span>- PyMongo</span>
   </div>
   <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-    <span>Pandas</span>
+    <span>- Pandas</span>
   </div>
 </div>
 

@@ -19,16 +19,21 @@
 
 
 <h2 align="left">Frameworks e Bibliotecas</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy logo" />
-  <span>SQLAlchemy</span>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <span>PyMongo</span>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
-  <span>Pandas</span>
+<div align="left" style="display: flex; align-items: center; gap: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy logo" />
+    <span>SQLAlchemy</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+    <span>PyMongo</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+    <span>Pandas</span>
+  </div>
 </div>
+
 
 
 <h2 align="left">Estatísticas do GitHub</h2>

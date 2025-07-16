@@ -57,7 +57,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 My Social Profiles
 
 <div align="center" style="display: flex; justify-content: center; gap: 12px; margin: 20px 0;">
   <a href="https://linkedin.com/in/vinicius-paiva-5b0b002a2" target="_blank">

@@ -43,13 +43,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=V1n1c1u5P4iva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=V1n1c1u5P4iva&hide_title=true&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="160" alt="Cute Walking Robot" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=V1n1c1u5P4iva&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V1n1c1u5P4iva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+</p>
 
 
 

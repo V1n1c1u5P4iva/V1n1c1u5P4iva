@@ -1,21 +1,27 @@
+<p align="right">
+  🇺🇸 <b>English</b> · 🇧🇷 <a href="https://github.com/V1n1c1u5P4iva/V1n1c1u5P4iva/blob/main/README.pt-BR.md">Português</a>
+</p>
+
 <div align="center">
   <h1>👋 Hello, I'm Vinicius!</h1>
-  <p style="font-size: 18px;">Computer Science student passionate about software development and building scalable back-end systems.</p>
+  <p>Computer Science student passionate about software development and building scalable back-end systems.</p>
+
+  <img src="./assets/walking-mascots.svg" width="100%" alt="Language mascots walking" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Computer Science Student**: Since 2023, I've been immersed in the world of programming, diving into technologies and honing my skills.  
-- 📚 **Lifelong Learner**: Constantly expanding my knowledge with modern tools, frameworks, and development practices.  
+- 💻 **Computer Science Student**: Since 2023, I've been immersed in the world of programming, diving into technologies and honing my skills.
+- 📚 **Lifelong Learner**: Constantly expanding my knowledge with modern tools, frameworks, and development practices.
 - 🎯 **Career Focus**: Back-end development — creating reliable, efficient systems that deliver real value.
 
 ---
 
 ## 🛠️ Technologies
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" title="C" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python" />
@@ -28,7 +34,7 @@
 
 ## 📚 Frameworks & Libraries
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" title="SQLAlchemy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
@@ -36,27 +42,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
 </div>
 
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=V1n1c1u5P4iva&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V1n1c1u5P4iva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
-
-
-</div>
-
 ---
 
 ## 🌐 My Social Profiles
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px; margin: 20px 0;">
+<div align="center">
   <a href="https://linkedin.com/in/vinicius-paiva-5b0b002a2" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
@@ -65,5 +55,5 @@
 ---
 
 <div align="center">
-  <p>💡 <em>"Code is like poetry; it’s all about expressing complex ideas with elegance and precision."</em></p>
+  <p>💡 <em>"Code is like poetry; it's all about expressing complex ideas with elegance and precision."</em></p>
 </div>
